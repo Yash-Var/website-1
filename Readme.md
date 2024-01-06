@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="240" src="https://github.com/avi-11/website/raw/master/public/static/images/new_logo.png" />
+<!-- 	<img width="240" src="https://github.com/avi-11/website/raw/master/public/static/images/new_logo.png" /> -->
 	</p>
 
 
